@@ -224,7 +224,7 @@ if __name__ == '__main__':
     # Use roundTimeArray to create a zipped list with times rounded to
     # 15 minutes, and print the length of time it takes Python to do this.
     sys.exit()
-    
+
     # I was not able to write the printLargeArray function. The script exits
     # before reaching this block.
     res1 = printLargeArray(data_5, files_lst, args.output_file+'_5',
