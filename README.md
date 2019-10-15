@@ -1,6 +1,7 @@
 Homework 5: Time Series
 
 This assignment contains classes & functions to read and round time series data from CSV files. It also finds and matches data values at each timestamp. I did not finish the assignment. The information below details what I was able to finish.
+I don't think I followed the correct local branching either. I wrote the functions in separate branches on my local repo but somehow I ended up with just 1 local master that I pushed back to the remote master.
 
 Usage
 The `data_import.py` program is the main program of the assignment. Its parameters are detailed below.
